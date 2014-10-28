@@ -5,51 +5,13 @@ HUX-LPB,HUX-LPB,daily,Luang Prabang,Huay Xai - Luang Prabang,0,,,0
 HUX-VIE,HUX-VIE,daily,Vientiane,Huay Xai - Vientiane,0,,,0
 HUX-LMN-1,HUX-LMN,daily,Luang Namtha,Huay Xai to Luang Namtha,0,,,0
 HUX-LPB-1,HUX-LPB,daily,Luang Prabang,Huay Xai - Luang Prabang,0,,,0
-HUX-VIE-1,HUX-VIE,daily,Vientiane,Huay Xai - Vientiane,0,,,0
-HUX-VVE,HUX-VIE,daily,Vientiane,Huay Xai - Vientiane,0,,,0
-HUX-SAY,HUX-VIE,daily,Vientiane,Huay Xai - Vientiane,0,,,0
-HUX-MGL,HUX-MGL,daily,Mengla,Huay Xie - Mengla,0,,,0
-HUX-JHN,HUX-MGL,daily,Jinghong,Huay Xie - Jinghong,0,,,0
-HUX-KNM,HUX-MGL,daily,Jinghong,Huay Xie - Jinghong,0,,,0
-HUX-DBP,HUX-DBP,daily,Dien Bien Phu,Huay Xia - Dien Bien Phu,0,,,0
-boat-HUX-LPB,boat-HUX-LPB,daily,Luang Prabang,Speed Boat to Luang Prabang,0,,,0
-boat-HUX-CHK,boat-HUX-CHK,daily,Chiang Khong,Ferry Chiang Khong,0,,,0
-VIE-LPB,VIE-LPB,daily,Luang Prabang,Vientiane to Luang Prabang,0,,,0
-VIE-LPB-1,VIE-LPB,daily,Luang Prabang,Vientiane to Luang Prabang,0,,,0
-VIE-LPB-0,VIE-LPB,daily,Luang Prabang,Vientiane to Luang Prabang,0,,,0
-VIE-LPB-2,VIE-LPB,daily,Luang Prabang,Vientiane to Luang Prabang,0,,,0
-VIE-LPB-4,VIE-LPB,daily,Luang Prabang,Vientiane to Luang Prabang,0,,,0
-VIE-LPB-5,VIE-LPB,daily,Luang Prabang,Vientiane to Luang Prabang,0,,,0
-VIE-LPB-6,VIE-LPB,daily,Luang Prabang,Vientiane to Luang Prabang,0,,,0
-VIE-XAM,VIE-XAM,daily,Xam Neua,Vientiane to Xam Neua,0,,,0
-VIE-XAM-1,VIE-XAM,daily,Xam Neua,Vientiane to Xam Neua,0,,,0
-VIE-XAM-2,VIE-XAM,daily,Xam Neua,Vientiane to Xam Neua,0,,,0
-VIE-LPB-XAM,VIE-XAM,daily,Xam Neua,Xam Neua via Luang Prabang,0,,,0
-VIE-LMN,VIE-LMN,daily,Vientiane,Huay Xai - Vientiane,0,,,0
-VIE-LMN-1,VIE-LMN,daily,Vientiane,Huay Xai - Vientiane,0,,,0
-VIE-ODX,VIE-ODX,daily,Vientiane,Huay Xai - Vientiane,0,,,0
-VIE-ODX-1,VIE-ODX,daily,Vientiane,Huay Xai - Vientiane,0,,,0
-VIE-ODX-2,VIE-ODX,daily,Vientiane,Huay Xai - Vientiane,0,,,0
-VIE-PHO,VIE-PHO,daily,Vientiane,Huay Xai - Vientiane,0,,,0
-VIE-SAY,VIE-SAY,daily,Luang Prabang,Vientiane to Luang Prabang,0,,,0
-VIE-SAY-1,VIE-SAY,daily,Luang Prabang,Vientiane to Luang Prabang,0,,,0
-VIE-SAY-2,VIE-SAY,daily,Luang Prabang,Vientiane to Luang Prabang,0,,,0
-VIE-PSV,VIE-PSV,daily,Phonsavan,Vientaine - Phonsavan,0,,,0
-VIE-PSV-1,VIE-PSV,daily,Phonsavan,Vientaine - Phonsavan,0,,,0
-VIE-PSV-2,VIE-PSV,daily,Phonsavan,Vientaine - Phonsavan,0,,,0
-VIE-PSV-3,VIE-PSV,daily,Phonsavan,Vientaine - Phonsavan,0,,,0
-VIE-PSV-4,VIE-PSV,daily,Phonsavan,Vientaine - Phonsavan,0,,,0
-VIE-PSV-5,VIE-PSV,daily,Phonsavan,Vientaine - Phonsavan,0,,,0
-VIE-PLY,VIE-PLY,daily,Pak Lay,Vientiane - Pak Lay,0,,,0
-VIE-XAN,VIE-XAN,daily,Xanamkhan,Vientiane - Xanamkhan,0,,,0
-VIE-XAN-1,VIE-XAN,daily,Xanamkhan,Vientiane - Xanamkhan,0,,,0
-VIE-KNM-1,VIE-KNM,daily,Vientiane,Huay Xai - Vientiane,0,,,0
-VIE-KNM-1--1,VIE-KNM,daily,Vientiane,Huay Xai - Vientiane,0,,,0
-VIE-MGL,VIE-KNM,daily,Vientiane,Huay Xai - Vientiane,0,,,0
-VIE-PNP,VIE-PNP,daily,Pnom Penh,Viantiane to Pnom Penh,0,,,0
-PKS-VIS-1,PKS-VIS,daily,Vientiane,Pakse Vientiane,0,,,0
-VIS-PKS,VIS-PKS,daily,Pnom Penh,Viantiane to Pnom Penh,0,,,0
-ATT-PKS,ATT-PKS,daily,Pakse,Attapeu to Pakse Local,0,,,0
-ATT-PKS-1,ATT-PKS,daily,Pakse,Attapeu to Pakse Local,0,,,0
-ATT-SAV,ATT-SAV,daily,Pakse,Attapeu to Pakse Local,0,,,0
-ATT-SAV-T,ATT-SAV,daily,Pakse,Attapeu to Pakse Local,0,,,0
+HUX-LPB-2,HUX-LPB,daily,Luang Prabang,Huay Xai - Luang Prabang,0,,,0
+HUX-LMN-2,HUX-LMN,daily,Luang Namtha,Huay Xai to Luang Namtha,0,,,0
+ODX-HUX,ODX-HUX,daily,Oudomxay,Oudomxay,0,,,0
+HUX-LMN-3,HUX-LMN,daily,Luang Namtha,Huay Xai to Luang Namtha,0,,,0
+HUX-LMN-5,HUX-LMN,daily,Luang Namtha,Huay Xai to Luang Namtha,0,,,0
+HUX-LMN-4,HUX-LMN,daily,Luang Namtha,Huay Xai to Luang Namtha,0,,,0
+HUX-LMN-6,HUX-LMN,daily,Luang Namtha,Huay Xai to Luang Namtha,0,,,0
+HUX-LMN-7,HUX-LMN,daily,Luang Namtha,Huay Xai to Luang Namtha,0,,,0
+HUX-LMN-8,HUX-LMN,daily,Luang Namtha,Huay Xai to Luang Namtha,0,,,0
+HUX-LMN-9,HUX-LMN,daily,Luang Namtha,Huay Xai to Luang Namtha,0,,,0
