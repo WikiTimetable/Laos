@@ -1,2 +1,2 @@
 trip_id,start_time,end_time,headway_secs
-HUX-LMN,07:00:00,07:00:00,1800
+boat-HUX-CHK,06:00:00,20:00:00,1800
