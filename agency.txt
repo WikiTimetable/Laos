@@ -1,2 +1,2 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
-LB,Lao State Bus Company,http://www.chalo.org.uk/,Asia/Rangoon,,unknown 19
+LB,Lao State Bus Company,http://www.chalo.org.uk/,Asia/Rangoon,,unknown 20
