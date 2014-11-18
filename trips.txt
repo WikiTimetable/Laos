@@ -51,5 +51,9 @@ PKS-VIS-1,PKS-VIS,daily,Vientiane,Pakse Vientiane,0,,,0
 VIS-PKS,VIS-PKS,daily,Pnom Penh,Viantiane to Pnom Penh,0,,,0
 ATT-PKS,ATT-PKS,daily,Pakse,Attapeu to Pakse Local,0,,,0
 ATT-PKS-1,ATT-PKS,daily,Pakse,Attapeu to Pakse Local,0,,,0
-ATT-SAV,ATT-SAV,daily,Pakse,Attapeu to Pakse Local,0,,,0
-ATT-SAV-T,ATT-SAV,daily,Pakse,Attapeu to Pakse Local,0,,,0
+ATT-PKS-2,ATT-PKS,daily,Pakse,Attapeu to Pakse Local,0,,,0
+ATT-PKS-v,ATT-PKS,daily,Pakse,Attapeu to Pakse Local,0,,,0
+ATT-PKS-3,ATT-PKS,daily,Pakse,Attapeu to Pakse Local,0,,,0
+ATT-PKS-4,ATT-PKS,daily,Pakse,Attapeu to Pakse Local,0,,,0
+ATT-SAV,ATT-SAV,daily,Savanket,Attapeu to Savanket,0,,,0
+ATT-VIS,ATT-VIS,daily,Vientiane,Attapeu to Vientaine,0,,,0
