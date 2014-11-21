@@ -20,6 +20,8 @@ VIE-KNM,LB,VIE-KNM,Vientiane - Kunming,,3,,,
 VIE-PNP,LB,VIE-PNP,Vientiane - Pnom Penh,,3,,,
 PKS-VIS,LB,PKS-VIS,Pakse - Vientiane,,3,,#000000,#000000
 VIS-PKS,LB,Vientiane to Pakse,Vientiane to Pakse - Day Bus,,3,,,
-ATT-PKS,LB,Attapeu to Pakse,Attapeu to Pakse Local Bus,,3,,,
+ATT-PKS,LB,Attapeu to Pakse,Attapeu to Pakse Local,,3,,#000000,#000000
 ATT-SAV,LB,Attapeu to Savankhet,Attapeu to Savankhet,,3,,,
 ATT-VIS,LB,Attapeu to Vientiane South,Attapeu to Vientiane South,,3,,#000000,#000000
+VIS-SAL,LB,VIS-SAL,Vientaine to Salavanh Express,,3,,,
+SAL-PKS,LB,SAL-PKS,Salavan to Pakse,,3,,,
