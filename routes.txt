@@ -22,4 +22,4 @@ PKS-VIS,LB,PKS-VIS,Pakse - Vientiane,,3,,#000000,#000000
 VIS-PKS,LB,Vientiane to Pakse,Vientiane to Pakse - Day Bus,,3,,,
 ATT-PKS,LB,Attapeu to Pakse,Attapeu to Pakse Local Bus,,3,,,
 ATT-SAV,LB,Attapeu to Savankhet,Attapeu to Savankhet,,3,,,
-ATT-VIS,LB,Attapeu to Vientiane South,Attapeu to Vientiane South,,0,,,
+ATT-VIS,LB,Attapeu to Vientiane South,Attapeu to Vientiane South,,3,,#000000,#000000
