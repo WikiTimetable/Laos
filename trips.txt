@@ -59,3 +59,10 @@ ATT-VIS,ATT-VIS,daily,Vientiane,Attapeu to Vientaine,0,,,0
 ATT-VIS-1,ATT-VIS,daily,Vientiane,Attapeu to Vientaine,0,,,0
 ATT-VIS-2,ATT-VIS,daily,Vientiane,Attapeu to Vientaine,0,,,0
 ATT-VIS-3,ATT-VIS,daily,Vientiane,Attapeu to Vientaine,0,,,0
+VIS-SAL-1,VIS-SAL,daily,Salavanh,,0,,,0
+SAL-PKS-1,SAL-PKS,daily,Pakse,,0,,,0
+SAL-PKS-2,SAL-PKS,daily,Pakse,,0,,,0
+SAL-PKS-3,SAL-PKS,daily,Pakse,,0,,,0
+SAL-PKS-4,SAL-PKS,daily,Pakse,,0,,,0
+SAL-PKS-5,SAL-PKS,daily,Pakse,,0,,,0
+SAL-PKS-6,SAL-PKS,daily,Pakse,,0,,,0
