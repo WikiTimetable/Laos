@@ -25,3 +25,7 @@ ATT-SAV,LB,Attapeu to Savankhet,Attapeu to Savankhet,,3,,,
 ATT-VIS,LB,Attapeu to Vientiane South,Attapeu to Vientiane South,,3,,#000000,#000000
 VIS-SAL,LB,VIS-SAL,Vientaine to Salavanh Express,,3,,,
 SAL-PKS,LB,SAL-PKS,Salavan to Pakse,,3,,,
+VIS-PNP,LB,Vientiane to Pnom Penh,Vientiane to Pnom Penh,,0,,,
+BNN-MOT,LB,Buen Neua to Muang Ou Tai,Buen Neua to Muang Ou Tai,,3,,,
+ODX-HUX,LB,Oudomxay to Huay Xai,Oudomxay to Huay Xai,,3,,,
+PSV-VIE,LB,Phonsavan to Vientiane,Phonsavan to Vientiane,,3,,,
