@@ -79,5 +79,20 @@ PSV-VNH,PSV-VNH,daily,Vinh,,0,,,0
 THK-VINH,THK-VNH,daily,Vinh,,0,,,0
 THK-VINH-1,THK-VNH,daily,Vinh,,0,,,0
 THK-DHO,THK-DHO,MWFS,Dong Hoi,,0,,,0
-VIS-ATT-1,VIS-ATT,daily,Vientiane,Attapeu to Vientaine,0,,,0
-VIS-ATT-2,VIS-ATT,daily,Vientiane,Attapeu to Vientaine,0,,,0
+VIS-ATT-1,VIS-ATT,daily,Attapeu,Vientaine to Attapeu,0,,,0
+VIS-ATT-2,VIS-ATT,daily,Attapeu,Vientaine to Attapeu,0,,,0
+PKS-DKH,PKS-DKH,daily,Don Khong,,0,,,0
+PKS-DKH-1,PKS-DKH,daily,Don Khong,,0,,,0
+PKS-DKH-2,PKS-DKH,daily,Don Khong,,0,,,0
+PKS-DKH-3,PKS-DKH,daily,Don Khong,,0,,,0
+PKS-DKH-4,PKS-DKH,daily,Don Khong,,0,,,0
+PKS-DKH-5,PKS-DKH,daily,Don Khong,,0,,,0
+PKS-ATT,PKS-ATT,daily,Attapeu,Pakse to Attapeu  Local,0,,,0
+PKS-ATT-1,PKS-ATT,daily,Attapeu,Pakse Attapeu Local,0,,,0
+PKS-ATT-2,PKS-ATT,daily,Attapeu,Pakse to Attapeu  Local,0,,,0
+PKS-ATT-3,PKS-ATT,daily,Attapeu,Pakse to Attapeu  Local,0,,,0
+PKS-SAL,PKS-SAL,daily,Salavan,,0,,,0
+PKS-SAL-1,PKS-SAL,daily,Salavan,,0,,,0
+PKS-SAL-2,PKS-SAL,daily,Salavan,,0,,,0
+PKS-SAL-3,PKS-SAL,daily,Salavan,,0,,,0
+PKS-SAL-4,PKS-SAL,daily,Salavan,,0,,,0
