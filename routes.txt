@@ -29,3 +29,7 @@ VIS-PNP,LB,Vientiane to Pnom Penh,Vientiane to Pnom Penh,,0,,,
 BNN-MOT,LB,Buen Neua to Muang Ou Tai,Buen Neua to Muang Ou Tai,,3,,,
 ODX-HUX,LB,Oudomxay to Huay Xai,Oudomxay to Huay Xai,,3,,,
 PSV-VIE,LB,Phonsavan to Vientiane,Phonsavan to Vientiane,,3,,,
+PSV-VNH,LB,Phonsavan to Vinh,Phonsavan to Vinh,,3,,,
+THK-VNH,LB,Tha Khaek to Vinh,Tha Kek to Vinh,,3,,#000000,#000000
+THK-DHO,LB,Tha Khaek to Dong Hoi,,,3,,#000000,#000000
+VIS-ATT,LB,Vientaine to Attapeu,Vientaine to Attapeu,,3,,,
