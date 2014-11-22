@@ -33,3 +33,6 @@ PSV-VNH,LB,Phonsavan to Vinh,Phonsavan to Vinh,,3,,,
 THK-VNH,LB,Tha Khaek to Vinh,Tha Kek to Vinh,,3,,#000000,#000000
 THK-DHO,LB,Tha Khaek to Dong Hoi,,,3,,#000000,#000000
 VIS-ATT,LB,Vientaine to Attapeu,Vientaine to Attapeu,,3,,,
+PKS-DKH,LB,Pakse to Don Khong,Pakse to Don Khong,,3,,,
+PKS-ATT,LB,Pakse to Attapeu,Pakse to Attapeu,,3,,,
+PKS-SAL,LB,Pakse to Salavan,Pakse to Salavan,,3,,,
