@@ -43,9 +43,9 @@ VIE-PSV-5,VIE-PSV,daily,Phonsavan,Vientaine - Phonsavan,0,,,0
 VIE-PLY,VIE-PLY,daily,Pak Lay,Vientiane - Pak Lay,0,,,0
 VIE-XAN,VIE-XAN,daily,Xanamkhan,Vientiane - Xanamkhan,0,,,0
 VIE-XAN-1,VIE-XAN,daily,Xanamkhan,Vientiane - Xanamkhan,0,,,0
-VIE-KNM-1,VIE-KNM,daily,Vientiane,Huay Xai - Vientiane,0,,,0
+VIE-KNM-1,VIE-KNM,daily,Kunming,Vientiane Kunming,0,,,0
 VIE-KNM,VIE-KNM,daily,Kunming,Vientiane to Kunming,0,,,0
-VIE-MGL,VIE-KNM,daily,Vientiane,Huay Xai - Vientiane,0,,,0
+VIE-MGL,VIE-MGL,daily,Mengla,,0,,,0
 VIE-PNP,VIE-PNP,daily,Pnom Penh,Viantiane to Pnom Penh,0,,,0
 PKS-VIS-1,PKS-VIS,daily,Vientiane,Pakse Vientiane,0,,,0
 VIS-PKS,VIS-PKS,daily,Pakse,Vientiane to Pakse,0,,,0
@@ -96,3 +96,4 @@ PKS-SAL-1,PKS-SAL,daily,Salavan,,0,,,0
 PKS-SAL-2,PKS-SAL,daily,Salavan,,0,,,0
 PKS-SAL-3,PKS-SAL,daily,Salavan,,0,,,0
 PKS-SAL-4,PKS-SAL,daily,Salavan,,0,,,0
+KNM-VIE,KNM-VIE,daily,Vientiane,Kunming to Vientiane,0,,,0
