@@ -30,7 +30,7 @@ VIE-LMN-1,VIE-LMN,daily,Vientiane,Huay Xai - Vientiane,0,,,0
 VIE-ODX,VIE-ODX,daily,Vientiane,Huay Xai - Vientiane,0,,,0
 VIE-ODX-1,VIE-ODX,daily,Vientiane,Huay Xai - Vientiane,0,,,0
 VIE-ODX-2,VIE-ODX,daily,Vientiane,Huay Xai - Vientiane,0,,,0
-VIE-PHO,VIE-PHO,daily,Vientiane,Huay Xai - Vientiane,0,,,0
+VIE-PHO,VIE-PHO,daily,Phongsali,Vientiane to Phongsali,0,,,0
 VIE-SAY,VIE-SAY,daily,Luang Prabang,Vientiane to Luang Prabang,0,,,0
 VIE-SAY-1,VIE-SAY,daily,Luang Prabang,Vientiane to Luang Prabang,0,,,0
 VIE-SAY-2,VIE-SAY,daily,Luang Prabang,Vientiane to Luang Prabang,0,,,0
@@ -44,11 +44,11 @@ VIE-PLY,VIE-PLY,daily,Pak Lay,Vientiane - Pak Lay,0,,,0
 VIE-XAN,VIE-XAN,daily,Xanamkhan,Vientiane - Xanamkhan,0,,,0
 VIE-XAN-1,VIE-XAN,daily,Xanamkhan,Vientiane - Xanamkhan,0,,,0
 VIE-KNM-1,VIE-KNM,daily,Vientiane,Huay Xai - Vientiane,0,,,0
-VIE-KNM-1--1,VIE-KNM,daily,Vientiane,Huay Xai - Vientiane,0,,,0
+VIE-KNM,VIE-KNM,daily,Kunming,Vientiane to Kunming,0,,,0
 VIE-MGL,VIE-KNM,daily,Vientiane,Huay Xai - Vientiane,0,,,0
 VIE-PNP,VIE-PNP,daily,Pnom Penh,Viantiane to Pnom Penh,0,,,0
 PKS-VIS-1,PKS-VIS,daily,Vientiane,Pakse Vientiane,0,,,0
-VIS-PKS,VIS-PKS,daily,Pnom Penh,Viantiane to Pnom Penh,0,,,0
+VIS-PKS,VIS-PKS,daily,Pakse,Vientiane to Pakse,0,,,0
 ATT-PKS,ATT-PKS,daily,Pakse,Attapeu to Pakse Local,0,,,0
 ATT-PKS-2,ATT-PKS,daily,Pakse,Attapeu to Pakse Local,0,,,0
 ATT-PKS-v,ATT-PKS,daily,Pakse,Attapeu to Pakse Local,0,,,0
@@ -66,3 +66,18 @@ SAL-PKS-3,SAL-PKS,daily,Pakse,,0,,,0
 SAL-PKS-4,SAL-PKS,daily,Pakse,,0,,,0
 SAL-PKS-5,SAL-PKS,daily,Pakse,,0,,,0
 SAL-PKS-6,SAL-PKS,daily,Pakse,,0,,,0
+PKS-VIS-0,PKS-VIS,daily,Vientiane,Pakse Vientiane,0,,,0
+BNN-MOT,BNN-MOT,daily,Muang Ou Tai,,0,,,0
+ODX-HUX-1,ODX-HUX,daily,Huay Xai,,0,,,0
+PSV-VIE-1,PSV-VIE,daily,Phonsavan,Vientaine - Phonsavan,0,,,0
+PSV-VIE-2,PSV-VIE,daily,Phonsavan,Vientaine - Phonsavan,0,,,0
+PSV-VIE-3,PSV-VIE,daily,Phonsavan,Vientaine - Phonsavan,0,,,0
+PSV-VIE-4,PSV-VIE,daily,Phonsavan,Vientaine - Phonsavan,0,,,0
+PSV-VIE-5,PSV-VIE,daily,Phonsavan,Vientaine - Phonsavan,0,,,0
+VIS-PKS-2,VIS-PKS,daily,Pakse,Vientiane to Pakse,0,,,0
+PSV-VNH,PSV-VNH,daily,Vinh,,0,,,0
+THK-VINH,THK-VNH,daily,Vinh,,0,,,0
+THK-VINH-1,THK-VNH,daily,Vinh,,0,,,0
+THK-DHO,THK-DHO,MWFS,Dong Hoi,,0,,,0
+VIS-ATT-1,VIS-ATT,daily,Vientiane,Attapeu to Vientaine,0,,,0
+VIS-ATT-2,VIS-ATT,daily,Vientiane,Attapeu to Vientaine,0,,,0
